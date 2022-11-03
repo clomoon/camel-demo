@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>camel-web-designer</title>
+
+  <link rel="stylesheet" href="css/app.css" />
+  <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/properties-panel.css" />
+    <link id="external-css" rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" media="all">
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<body>
+  <div id="io-dialog-main" class="pjs-io-dialog pjs-io-dialog-open keybindings-dialog">
+    <div class="pjs-io-dialog-content">
+      <h1>Keyboard Shortcuts</h1>
+      <table>
+        <tbody>
+          <tr>
+            <td>Undo</td>
+            <td class="binding">⌘ + Z</td>
+          </tr>
+          <tr>
+            <td>Redo</td>
+            <td class="binding">⌘ + ⇧ + Z</td>
+          </tr>
+          <tr>
+            <td>Select All</td>
+            <td class="binding">⌘ + A</td>
+          </tr>
+         <tr>
+            <td>Zooming</td>
+            <td class="binding">ctrl + Scrolling</td>
+          </tr>
+
+          <tr>
+            <td>Direct Editing</td>
+            <td class="binding">E</td>
+          </tr>
+          <tr>
+            <td>Hand Tool</td>
+            <td class="binding">H</td>
+          </tr>
+          <tr>
+            <td>Lasso Tool</td>
+            <td class="binding">L</td>
+          </tr>
+          <tr>
+            <td>Space Tool</td>
+            <td class="binding">S</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+<div id="editor" style="display: flex; height: 100%">
+    <div id="palette" class="clomoon-palette two-column open"></div>
+  <div id="canvas" style="flex-grow: 1"></div>
+    <div id="properties" class="properties"></div>
+</div>
+
+
+  <div id="io-editing-tools-buttons" class="pjs-buttons">
+      <ul>
+          <li>
+              <button id="js-toggle-fullscreen" class="pjs-buttons-active" title="Toggle Fullscreen" >
+                  <span class="icon-resize-full pjs-general-icon"> </span>
+              </button>
+          </li>
+          <li>
+              <button id="js-open-board" class="pjs-buttons-active" title="open XML board">
+                  <span class="icon-folder-open icon-camel pjs-general-icon"> </span>
+              </button>
+          </li>
+          <li>
+              <button id="js-open-new" href class="pjs-buttons-active" title="open new board">
+                  <span class="icon-file icon-camel pjs-general-icon"> </span>
+              </button>
+          </li>
+          <li>
+              <a id="js-download-board" href title="download XML board">
+                  <span class="icon-download icon-camel pjs-general-icon"> </span>
+              </a>
+          </li>
+          <li>
+              <a id="js-download-svg" href title="download as SVG image">
+                  <span class="icon-eye icon-camel pjs-general-icon"> </span>
+              </a>
+          </li>
+      </ul>
+  </div>
+  <script src="app.js"></script>
+</html>

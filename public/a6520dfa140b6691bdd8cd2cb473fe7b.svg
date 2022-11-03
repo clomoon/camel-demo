@@ -1,3 +1,0 @@
-import * as React from "react";
-const SvgBpmnIconStartEventCondition = props => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 32 32" role="img" {...props}><path d="M16 0C7.174 0 0 7.174 0 16s7.174 16 16 16 16-7.174 16-16S24.826 0 16 0Zm0 1.73c7.892 0 14.27 6.378 14.27 14.27 0 7.891-6.379 14.27-14.27 14.27S1.73 23.891 1.73 16C1.73 8.108 8.108 1.73 16 1.73Zm-5.362 7.523v13.493h10.724V9.253H10.638Zm.863.866h8.995V21.88H11.501V10.12Zm.928 1.324v.863h7.139v-.863h-7.139Zm0 2.605v.867h7.139v-.867h-7.139Zm0 3.01v.864h7.139v-.863h-7.139Zm0 2.72v.863h7.139v-.863h-7.139Z" /></svg>;
-export default SvgBpmnIconStartEventCondition;

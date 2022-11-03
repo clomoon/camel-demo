@@ -1,3 +1,0 @@
-import * as React from "react";
-const SvgBpmnIconDataObject = props => <svg xmlns="http://www.w3.org/2000/svg" width={32} height={32} role="img" {...props}><path d="M21.345 0H4v32h24.512V7.36L21.345 0ZM19.24 1.818v7.507h7.454v20.857H5.818V1.818H19.24Zm1.818.493 5.06 5.196h-5.06V2.311Z" /></svg>;
-export default SvgBpmnIconDataObject;

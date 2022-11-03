@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" width="16.05mm" height="10.05mm" viewBox="12959 12789 1605 1005" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+
+ <g visibility="visible" id="Slide_1">
+  <g id="DrawingGroup_1">
+   <g>
+    <path fill="rgb(204,255,153)" stroke="none" d="M 12984,13768 L 14538,13768 14538,12814 12984,12814 12984,13768 Z"/>
+    </g>
+   <g>
+    <path fill="rgb(255,255,255)" stroke="none" d="M 13165,13651 L 13642,13651 13642,12934 13165,12934 13165,13651 Z"/>
+    <path fill="none" stroke="#0074D9" id="Drawing_2_0" stroke-linejoin="round" d="M 13165,13651 L 13642,13651 13642,12934 13165,12934 13165,13651 Z"/>
+   </g>
+   <g>
+    <path fill="rgb(255,255,255)" stroke="none" d="M 13882,13651 L 14359,13651 14359,12934 13882,12934 13882,13651 Z"/>
+    <path fill="none" stroke="#0074D9" id="Drawing_3_0" stroke-linejoin="round" d="M 13882,13651 L 14359,13651 14359,12934 13882,12934 13882,13651 Z"/>
+   </g>
+   <g>
+    <path fill="none" stroke="#0074D9" id="Drawing_4_0" stroke-width="75" stroke-linejoin="round" d="M 13402,13051 L 14180,13530"/>
+   </g>
+   <g>
+    <path fill="none" stroke="#0074D9" id="Drawing_5_0" stroke-width="75" stroke-linejoin="round" d="M 13402,13530 L 14180,13051"/>
+   </g>
+  </g>
+ </g>
+</svg>

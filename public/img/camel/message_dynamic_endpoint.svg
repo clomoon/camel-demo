@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" width="18.15mm" height="10.05mm" viewBox="12734 9865 1815 1005" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <g visibility="visible" id="Slide_1">
+  <g id="DrawingGroup_1">
+   <g>
+    <path fill="rgb(204,255,153)" stroke="none" d="M 12969,10844 L 14523,10844 14523,9890 12969,9890 12969,10844 Z"/>
+   </g>
+   <g>
+    <path fill="none" stroke="rgb(141,141,141)" id="Drawing_2_0" stroke-linejoin="round" d="M 12734,10367 L 13446,10367"/>
+   </g>
+   <g>
+    <path fill="rgb(141,141,141)" stroke="none" d="M 13417,10458 L 13417,10277 13596,10367 13417,10458 Z"/>
+    <path fill="none" stroke="rgb(141,141,141)" id="Drawing_3_0" stroke-linejoin="round" d="M 13417,10458 L 13417,10277 13596,10367 13417,10458 Z"/>
+   </g>
+   <g>
+    <path fill="none" stroke="rgb(141,141,141)" id="Drawing_4_0" stroke-linejoin="round" d="M 13596,10367 L 13417,10458 13417,10277 13596,10367 Z"/>
+   </g>
+   <g>
+    <path fill="rgb(255,255,255)" stroke="none" d="M 13686,10607 L 14163,10607 14163,10128 13686,10128 13686,10607 Z"/>
+    <path fill="none" stroke="rgb(15,15,15)" id="Drawing_5_0" stroke-linejoin="round" d="M 13686,10607 L 14163,10607 14163,10128 13686,10128 13686,10607 Z"/>
+
+   </g>
+    <g fill="rgb(0,0,0)" stroke="none" font-family="Liberation Sans embedded" font-size="653" font-style="normal" font-weight="400">
+     <text x="14206" y="10607">?</text>
+    </g>
+  </g>
+ </g>
+</svg>

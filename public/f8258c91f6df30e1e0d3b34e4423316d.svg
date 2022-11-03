@@ -1,0 +1,3 @@
+import * as React from "react";
+const SvgArrow = props => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 16 16" role="img" {...props}><path fillRule="evenodd" d="m11.657 8-4.95 4.95a1 1 0 0 1-1.414-1.414L8.828 8 5.293 4.464A1 1 0 1 1 6.707 3.05L11.657 8Z" /></svg>;
+export default SvgArrow;

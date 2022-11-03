@@ -1,0 +1,12 @@
+var _path;
+function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+import * as React from "react";
+const SvgBpmnIconReceiveTask = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 32,
+  height: 32,
+  role: "img"
+}, props), _path || (_path = /*#__PURE__*/React.createElement("path", {
+  d: "M6.494 3C2.916 3 0 5.903 0 9.475v13.383c0 3.572 2.916 6.475 6.494 6.475h19.012c3.578 0 6.494-2.903 6.494-6.475V9.475C32 5.903 29.084 3 25.506 3H6.494Zm0 2h19.012C28.015 5 30 6.98 30 9.475v13.383c0 2.495-1.985 4.475-4.494 4.475H6.494C3.985 27.333 2 25.353 2 22.858V9.475C2 6.98 3.985 5 6.494 5ZM5.23 7.764v11.577h17.55V7.764H5.23Zm1.816.758h13.917l-6.959 4.577-6.958-4.577Zm-1.06.21 8.018 5.274 8.018-5.275v9.853H5.987V8.73Z"
+})));
+export default SvgBpmnIconReceiveTask;

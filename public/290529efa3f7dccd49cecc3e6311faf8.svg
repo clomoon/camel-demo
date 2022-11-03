@@ -1,0 +1,15 @@
+import * as React from "react";
+import { jsx as _jsx } from "react/jsx-runtime";
+
+const SvgBpmnIconDataInput = props => /*#__PURE__*/_jsx("svg", {
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 32,
+  height: 32,
+  role: "img",
+  ...props,
+  children: /*#__PURE__*/_jsx("path", {
+    d: "M20.833 0H3.488v32H28V7.36L20.833 0Zm-2.105 1.818v7.507h7.454v20.857H5.306V1.818h13.422Zm1.818.493 5.06 5.196h-5.06V2.311Zm-9.182.86v3.744H7.081v3.222h4.283v3.743l5.7-5.354-5.7-5.354Zm.808 1.868 3.711 3.487-3.71 3.487V9.329H7.888V7.723h4.283V5.039Z"
+  })
+});
+
+export default SvgBpmnIconDataInput;

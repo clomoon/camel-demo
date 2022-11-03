@@ -1,0 +1,52 @@
+import * as React from "react";
+import { jsx as _jsx } from "react/jsx-runtime";
+import { jsxs as _jsxs } from "react/jsx-runtime";
+
+const SvgBpmnEmptyState = props => /*#__PURE__*/_jsxs("svg", {
+  xmlns: "http://www.w3.org/2000/svg",
+  xmlnsXlink: "http://www.w3.org/1999/xlink",
+  width: 64,
+  height: 64,
+  role: "img",
+  ...props,
+  children: [/*#__PURE__*/_jsxs("defs", {
+    children: [/*#__PURE__*/_jsx("rect", {
+      id: "bpmn-empty-state_svg__a",
+      width: 57,
+      height: 47,
+      x: 3,
+      y: 8,
+      rx: 7
+    }), /*#__PURE__*/_jsx("mask", {
+      id: "bpmn-empty-state_svg__b",
+      width: 57,
+      height: 47,
+      x: 0,
+      y: 0,
+      fill: "#fff",
+      maskContentUnits: "userSpaceOnUse",
+      maskUnits: "objectBoundingBox",
+      children: /*#__PURE__*/_jsx("use", {
+        xlinkHref: "#bpmn-empty-state_svg__a"
+      })
+    })]
+  }), /*#__PURE__*/_jsxs("g", {
+    fill: "none",
+    fillRule: "evenodd",
+    children: [/*#__PURE__*/_jsx("path", {
+      fill: "#818798",
+      d: "M52 11a5 5 0 0 1 5 5v31a5 5 0 0 1-5 5H11a5 5 0 0 1-5-5V16a5 5 0 0 1 5-5h41Zm0 2H11a3 3 0 0 0-2.995 2.824L8 16v31a3 3 0 0 0 2.824 2.995L11 50h41a3 3 0 0 0 2.995-2.824L55 47V16a3 3 0 0 0-2.824-2.995L52 13Z"
+    }), /*#__PURE__*/_jsx("path", {
+      fill: "#D5D7DD",
+      d: "M16 24h31v6H16zM21 33h21v6H21z"
+    }), /*#__PURE__*/_jsx("use", {
+      stroke: "#B9BCC6",
+      strokeDasharray: "5 2",
+      strokeWidth: 2,
+      mask: "url(#bpmn-empty-state_svg__b)",
+      xlinkHref: "#bpmn-empty-state_svg__a"
+    })]
+  })]
+});
+
+export default SvgBpmnEmptyState;

@@ -1,0 +1,91 @@
+import * as React from "react";
+import { jsx as _jsx } from "react/jsx-runtime";
+import { jsxs as _jsxs } from "react/jsx-runtime";
+
+const SvgServiceActivator = props => /*#__PURE__*/_jsxs("svg", {
+  baseProfile: "tiny",
+  width: 70.45,
+  height: 37.984,
+  viewBox: "15576 12789 1864 1005",
+  preserveAspectRatio: "xMidYMid",
+  fillRule: "evenodd",
+  strokeWidth: 28.222,
+  strokeLinejoin: "round",
+  xmlns: "http://www.w3.org/2000/svg",
+  xmlSpace: "preserve",
+  role: "img",
+  ...props,
+  children: [/*#__PURE__*/_jsx("path", {
+    fill: "#CF9",
+    d: "M15862 13768h1552v-954h-1552v954Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#0F0F0F",
+    strokeWidth: 51,
+    d: "M15862 13768h1552v-954h-1552v954Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#8D8D8D",
+    d: "M15576 13291h763"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#8D8D8D",
+    d: "M16219 13382v-181l179 90-179 91Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#8D8D8D",
+    d: "M16219 13382v-181l179 90-179 91Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#8D8D8D",
+    d: "m16398 13291-179 91v-181l179 90Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#B3B3B3",
+    d: "m17319 13291-84-84-84 84h168Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#B3B3B3",
+    d: "m17319 13291-84-84-84 84h168Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#B3B3B3",
+    d: "M17319 13291h-168l84 84 84-84Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#B3B3B3",
+    d: "M17319 13291h-168l84 84 84-84Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#0F0F0F",
+    d: "m17235 13375 84-84-84-84-84 84 84 84ZM17145 13291h-568"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#0F0F0F",
+    d: "M17056 13335v-88l88 44-88 44Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#0F0F0F",
+    d: "M17056 13335v-88l88 44-88 44Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#0F0F0F",
+    d: "m17144 13291-88 44v-88l88 44Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#0F0F0F",
+    d: "m16602 13291-84-84-84 84h168Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#0F0F0F",
+    d: "m16602 13291-84-84-84 84h168Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#0F0F0F",
+    d: "M16602 13291h-168l84 84 84-84Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#0F0F0F",
+    d: "M16602 13291h-168l84 84 84-84Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#0F0F0F",
+    d: "m16518 13375 84-84-84-84-84 84 84 84Z"
+  })]
+});
+
+export default SvgServiceActivator;

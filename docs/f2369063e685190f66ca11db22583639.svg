@@ -1,0 +1,101 @@
+var _path, _path2, _path3, _path4, _path5, _path6, _path7, _path8, _path9, _path10, _path11, _defs, _path12, _path13, _path14, _defs2, _path15, _path16, _path17;
+function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+import * as React from "react";
+const SvgChannelAdapter = props => /*#__PURE__*/React.createElement("svg", _extends({
+  baseProfile: "tiny",
+  width: 61.946,
+  height: "8.36mm",
+  viewBox: "4442 1736 1639 836",
+  preserveAspectRatio: "xMidYMid",
+  fillRule: "evenodd",
+  strokeWidth: 28.222,
+  strokeLinejoin: "round",
+  xmlns: "http://www.w3.org/2000/svg",
+  xmlSpace: "preserve",
+  role: "img"
+}, props), _path || (_path = /*#__PURE__*/React.createElement("path", {
+  fill: "#BBE1E3",
+  d: "m4889 2541 269-134v-536l-269-135v805Z"
+})), _path2 || (_path2 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#0F0F0F",
+  d: "m4889 2541 269-134v-536l-269-135v805Z"
+})), _path3 || (_path3 = /*#__PURE__*/React.createElement("path", {
+  fill: "#BBE1E3",
+  d: "M4442 2571h360v-835h-360v835Z"
+})), _path4 || (_path4 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#0F0F0F",
+  d: "M4442 2571h360v-835h-360v835ZM4801 2154h88"
+})), _path5 || (_path5 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#8D8D8D",
+  d: "M5219 2154h269"
+})), _path6 || (_path6 = /*#__PURE__*/React.createElement("path", {
+  fill: "#8D8D8D",
+  d: "M5428 2198v-90l90 46-90 44Z"
+})), _path7 || (_path7 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#8D8D8D",
+  d: "M5428 2198v-90l90 46-90 44Z"
+})), _path8 || (_path8 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#8D8D8D",
+  d: "m5518 2154-90 44v-90l90 46Z"
+})), _path9 || (_path9 = /*#__PURE__*/React.createElement("path", {
+  fill: "#8D8D8D",
+  d: "M5278 2198v-90l-90 46 90 44Z"
+})), _path10 || (_path10 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#8D8D8D",
+  d: "M5278 2198v-90l-90 46 90 44Z"
+})), _path11 || (_path11 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#8D8D8D",
+  d: "m5188 2154 90 44v-90l-90 46Z"
+})), _defs || (_defs = /*#__PURE__*/React.createElement("defs", null, /*#__PURE__*/React.createElement("linearGradient", {
+  id: "channel_adapter_svg__a",
+  gradientUnits: "userSpaceOnUse",
+  x1: 5810,
+  y1: 2048,
+  x2: 5810,
+  y2: 2271
+}, /*#__PURE__*/React.createElement("stop", {
+  offset: 0
+}), /*#__PURE__*/React.createElement("stop", {
+  offset: 1,
+  stopColor: "#FFF"
+})))), _path12 || (_path12 = /*#__PURE__*/React.createElement("path", {
+  fill: "url(#channel_adapter_svg__a)",
+  d: "m5995 2048 8 1 8 1 7 3 8 4 7 5 7 6 7 7 6 8 6 8 5 8 5 9 4 10 3 10 2 10 2 11v20l-2 11-2 10-3 10-4 10-5 9-5 9-6 8-6 8-7 6-7 6-7 5-8 4-7 3-8 2-8 1h-370l-8-1-8-2-8-3-7-4-8-5-7-6-6-6-7-8-5-8-5-9-5-9-4-10-3-10-2-10-2-11v-20l2-11 2-10 3-10 4-10 5-9 5-8 5-8 7-8 6-7 7-6 8-5 7-4 8-3 8-1 8-1h370Z"
+})), _path13 || (_path13 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#000",
+  d: "M5995 2048c42 0 85 55 85 111s-43 112-85 112h-370c-43 0-85-56-85-112s42-111 85-111h370Z"
+})), _path14 || (_path14 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  d: "M5910 2048h86v224h-86z"
+})), _defs2 || (_defs2 = /*#__PURE__*/React.createElement("defs", null, /*#__PURE__*/React.createElement("linearGradient", {
+  id: "channel_adapter_svg__b",
+  gradientUnits: "userSpaceOnUse",
+  x1: 5952,
+  y1: 2048,
+  x2: 5952,
+  y2: 2271
+}, /*#__PURE__*/React.createElement("stop", {
+  offset: 0
+}), /*#__PURE__*/React.createElement("stop", {
+  offset: 1,
+  stopColor: "#FFF"
+})))), _path15 || (_path15 = /*#__PURE__*/React.createElement("path", {
+  fill: "url(#channel_adapter_svg__b)",
+  d: "m5995 2048-8 1-8 1-8 3-7 4-8 5-7 6-6 7-7 8-5 8-5 8-5 9-4 10-3 10-2 10-2 11v20l2 11 2 10 3 10 4 10 5 9 5 9 5 8 7 8 6 6 7 6 8 5 7 4 8 3 8 2 8 1v-223Z"
+})), _path16 || (_path16 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#000",
+  d: "M5995 2048c-43 0-85 55-85 111s42 112 85 112"
+})), _path17 || (_path17 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  d: "M5541 2048h540v223h-540z"
+})));
+export default SvgChannelAdapter;

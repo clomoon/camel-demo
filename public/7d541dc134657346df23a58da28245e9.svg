@@ -1,0 +1,60 @@
+import * as React from "react";
+import { jsx as _jsx } from "react/jsx-runtime";
+import { jsxs as _jsxs } from "react/jsx-runtime";
+
+const SvgMessageFilter = props => /*#__PURE__*/_jsxs("svg", {
+  baseProfile: "tiny",
+  width: 60.964,
+  height: 37.984,
+  viewBox: "18755 7192 1613 1005",
+  preserveAspectRatio: "xMidYMid",
+  fillRule: "evenodd",
+  strokeWidth: 28.222,
+  strokeLinejoin: "round",
+  xmlns: "http://www.w3.org/2000/svg",
+  xmlSpace: "preserve",
+  role: "img",
+  ...props,
+  children: [/*#__PURE__*/_jsx("path", {
+    fill: "#CF9",
+    d: "M18780 8171h1562v-954h-1562v954Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#0F0F0F",
+    strokeWidth: 51,
+    d: "M18780 8171h1562v-954h-1562v954Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#676767",
+    d: "M19461 7993h210v-290l-210 290Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#676767",
+    d: "M19461 7993h210v-290l-210 290Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#676767",
+    d: "m19461 7993 210-291 171-296-381 587Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#676767",
+    d: "m19461 7993 210-291 171-296-381 587Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#676767",
+    d: "m19460 7993 381-587h-551l170 587Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#676767",
+    d: "m19460 7993 381-587h-551l170 587Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    stroke: "#0F0F0F",
+    d: "M19460 7702v291h211v-291l170-296h-551l170 296Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "#CF9",
+    d: "m19460 8096-170-690 170 296v394Z"
+  }), /*#__PURE__*/_jsx("path", {
+    fill: "none",
+    d: "M19290 7406h171v692h-171z"
+  })]
+});
+
+export default SvgMessageFilter;

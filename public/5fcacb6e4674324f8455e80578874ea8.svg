@@ -1,0 +1,63 @@
+var _path, _path2, _path3, _path4, _path5, _path6, _path7, _path8, _path9, _path10, _path11, _path12, _path13;
+function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+import * as React from "react";
+const SvgProcessManager = props => /*#__PURE__*/React.createElement("svg", _extends({
+  baseProfile: "tiny",
+  width: 60.586,
+  height: 37.984,
+  viewBox: "10112 15583 1603 1005",
+  preserveAspectRatio: "xMidYMid",
+  fillRule: "evenodd",
+  strokeWidth: 28.222,
+  strokeLinejoin: "round",
+  xmlns: "http://www.w3.org/2000/svg",
+  xmlSpace: "preserve",
+  role: "img"
+}, props), _path || (_path = /*#__PURE__*/React.createElement("path", {
+  fill: "#CF9",
+  d: "M10137 16562h1552v-954h-1552v954Z"
+})), _path2 || (_path2 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#0F0F0F",
+  strokeWidth: 51,
+  d: "M10137 16562h1552v-954h-1552v954Z"
+})), _path3 || (_path3 = /*#__PURE__*/React.createElement("path", {
+  fill: "#FFF",
+  d: "M10287 16472h269v-179h-269v179Z"
+})), _path4 || (_path4 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#0F0F0F",
+  d: "M10287 16472h269v-179h-269v179Z"
+})), _path5 || (_path5 = /*#__PURE__*/React.createElement("path", {
+  fill: "#FFF",
+  d: "M10764 16472h269v-179h-269v179Z"
+})), _path6 || (_path6 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#0F0F0F",
+  d: "M10764 16472h269v-179h-269v179Z"
+})), _path7 || (_path7 = /*#__PURE__*/React.createElement("path", {
+  fill: "#FFF",
+  d: "M11241 16472h269v-179h-269v179Z"
+})), _path8 || (_path8 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#0F0F0F",
+  d: "M11241 16472h269v-179h-269v179ZM10436 16293v-208M11390 16293v-208h-954M10913 16293v-418"
+})), _path9 || (_path9 = /*#__PURE__*/React.createElement("path", {
+  fill: "#FFF",
+  d: "m10724 16085 189-143 189 143-189 141-189-141Z"
+})), _path10 || (_path10 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#0F0F0F",
+  d: "m10724 16085 189-143 189 143-189 141-189-141Z"
+})), _path11 || (_path11 = /*#__PURE__*/React.createElement("path", {
+  fill: "#FFF",
+  d: "M10914 15646c66 0 117 50 117 116s-51 117-117 117-116-51-116-117 50-116 116-116Z"
+})), _path12 || (_path12 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  stroke: "#000",
+  d: "M10914 15646c66 0 117 50 117 116s-51 117-117 117-116-51-116-117 50-116 116-116Z"
+})), _path13 || (_path13 = /*#__PURE__*/React.createElement("path", {
+  fill: "none",
+  d: "M10799 15647h234v234h-234z"
+})));
+export default SvgProcessManager;

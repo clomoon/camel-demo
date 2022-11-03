@@ -1,0 +1,15 @@
+import * as React from "react";
+import { jsx as _jsx } from "react/jsx-runtime";
+
+const SvgBpmnIconLane = props => /*#__PURE__*/_jsx("svg", {
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 32,
+  height: 32,
+  role: "img",
+  ...props,
+  children: /*#__PURE__*/_jsx("path", {
+    d: "M0 7v18.62h32V7H0Zm1.655 17.056V8.684h28.62v15.372H1.656Z"
+  })
+});
+
+export default SvgBpmnIconLane;

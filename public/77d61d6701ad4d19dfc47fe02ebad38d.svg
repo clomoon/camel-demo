@@ -1,0 +1,15 @@
+import * as React from "react";
+import { jsx as _jsx } from "react/jsx-runtime";
+
+const SvgBpmnIconSubprocessExpanded = props => /*#__PURE__*/_jsx("svg", {
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 32,
+  height: 32,
+  role: "img",
+  ...props,
+  children: /*#__PURE__*/_jsx("path", {
+    d: "M5.636 3A5.642 5.642 0 0 0 0 8.636v15.418a5.643 5.643 0 0 0 5.636 5.636h20.728A5.643 5.643 0 0 0 32 24.054V8.636A5.642 5.642 0 0 0 26.364 3H5.636Zm0 1.778h20.728a3.83 3.83 0 0 1 3.858 3.858v15.418a3.83 3.83 0 0 1-3.858 3.858h-4.203V16.723H9.84v11.189H5.636a3.83 3.83 0 0 1-3.858-3.858V8.636a3.83 3.83 0 0 1 3.858-3.858Zm5.331 13.074h10.066v10.06H10.967v-10.06Zm1.336 3.996v1.711h7.394v-1.71h-7.394Z"
+  })
+});
+
+export default SvgBpmnIconSubprocessExpanded;
